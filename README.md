@@ -11,6 +11,6 @@ I enjoy building things and exploring **programming**, **cybersecurity**, and te
 **Goal:** Become highly skilled in cybersecurity and software development.
 
 **Fun Facts:**
-- I enjoy gaming 🎮
+- I enjoy gaming
 - I learn by experimenting
 - Small progress daily becomes something big
