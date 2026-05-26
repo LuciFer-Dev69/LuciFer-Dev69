@@ -1,30 +1,16 @@
 # Hey there 👋
 
-I'm **Nikhil**, a student from Nepal 🇳🇵
+I'm **Nikhil**, a student from Nepal.
 
-I enjoy building things and exploring **programming**, **cybersecurity**, and technology.
+I enjoy building things and exploring **programming**, **cybersecurity**, and technology — one project at a time.
 
-Curiosity pulls me into coding, learning, and creating projects one step at a time.
+**Currently learning:** C & C++ · Networking · Ethical Hacking
 
-## 🚀 Currently Learning
+**Tools:** VS Code · CLion · Git · Linux
 
-- C & C++
-- Networking fundamentals
-- Ethical hacking
-- Building projects
+**Goal:** Become highly skilled in cybersecurity and software development.
 
-## 🛠 Tools
-
-VS Code • CLion • Git • Linux
-
-## 🌱 Goal
-
-Become highly skilled in cybersecurity and software development.
-
-## Fun Facts
-
+**Fun Facts:**
 - I enjoy gaming 🎮
 - I learn by experimenting
-- Books + videos + projects = best combo
-
-> Small progress daily becomes something big.
+- Small progress daily becomes something big
