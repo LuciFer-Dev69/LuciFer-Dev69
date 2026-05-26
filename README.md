@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hey there 👋
 
-<!--
-**LuciFer-Dev69/LuciFer-Dev69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Nikhil**, a student from Nepal 🇳🇵
 
-Here are some ideas to get you started:
+I enjoy building things and exploring **programming**, **cybersecurity**, and technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Curiosity pulls me into coding, learning, and creating projects one step at a time.
+
+## 🚀 Currently Learning
+
+- C & C++
+- Networking fundamentals
+- Ethical hacking
+- Building projects
+
+## 🛠 Tools
+
+VS Code • CLion • Git • Linux
+
+## 🌱 Goal
+
+Become highly skilled in cybersecurity and software development.
+
+## Fun Facts
+
+- I enjoy gaming 🎮
+- I learn by experimenting
+- Books + videos + projects = best combo
+
+> Small progress daily becomes something big.
