@@ -1,6 +1,6 @@
 # Hey there 👋
 
-I'm **Nikhil**, a student from Nepal.
+I'm , a student from Nepal.
 
 I enjoy building things and exploring **programming**, **cybersecurity**, and technology — one project at a time.
 
